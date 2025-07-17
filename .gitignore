@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# SQLite DB (if you don’t want to commit local DB)
+books.db
+
+# Test cache
+.pytest_cache/
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.swp

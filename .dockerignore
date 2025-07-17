@@ -1,0 +1,24 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local SQLite DB file (optional, if you want to build fresh each time)
+books.db
+
+# Ignore test cache
+.pytest_cache/
+
+# Ignore Git files
+.git/
+.gitignore
+
+# Ignore editor configs
+.vscode/
+.idea/
+*.swp
