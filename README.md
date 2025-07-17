@@ -16,8 +16,8 @@ A FastAPI CRUD API to manage a book catalog, with async endpoints, SQLAlchemy (S
 1️⃣ Clone repo:
 
 ```bash
-git clone <your-repo-url>
-cd book-catalog
+git clone https://github.com/shehroz65/Book-Catalog.git
+cd Book-Catalog
 ```
 
 2️⃣ Create virtual environment:
